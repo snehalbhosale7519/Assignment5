@@ -39,9 +39,4 @@
 - Display Records: Show products/buyers in a JTable or list.
 - Delete Functionality: Add "Delete" button with confirmation dialog.
 - Feedback & Refresh: Notify user and reload the list after deletion.
-
-
-
-
-
-Improve error handling & logging.
+- Improve error handling & logging.
